@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\bin\Debug\net6.0\Homework_001.exe
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\bin\Debug\net6.0\Homework_001.deps.json
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\bin\Debug\net6.0\Homework_001.runtimeconfig.json
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\bin\Debug\net6.0\Homework_001.dll
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\bin\Debug\net6.0\Homework_001.pdb
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.AssemblyInfo.cs
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.dll
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\refint\Homework_001.dll
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.pdb
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\Homework_001.genruntimeconfig.cache
+D:\GEEKBRAINS\ЗНАКОМСТВО С C# ДЗ К СЕМИНАРУ 11_08_22\HOMEWORKS\Homework_001\obj\Debug\net6.0\ref\Homework_001.dll
